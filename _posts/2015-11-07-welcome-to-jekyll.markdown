@@ -8,7 +8,7 @@ Web Magnetic has launched a new website! The site was built using Jekyll which i
 
 Install Jekyll by going into your terminal app and running these commands:
 
-{% highlight ruby linenos %}
+{% highlight bash linenos %}
 sudo gem install jekyll
 jekyll new my-awesome-site
 cd my-awesome-site
